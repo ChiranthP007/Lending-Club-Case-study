@@ -50,21 +50,6 @@ To install the necessary dependencies, run the following command:
 pip install numpy==1.23.5 pandas==1.5.3 matplotlib==3.7.0 seaborn==0.12.2
 ```
 
-## Usage
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/lending-club-case-study.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd lending-club-case-study
-   ```
-3. Run the analysis script:
-   ```bash
-   python analysis.py
-   ```
-
 ## Acknowledgements
 
 We acknowledge the contributions of our data science team and the use of Lending Club's dataset for this analysis.
