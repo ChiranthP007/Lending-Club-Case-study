@@ -50,8 +50,4 @@ To install the necessary dependencies, run the following command:
 pip install numpy==1.23.5 pandas==1.5.3 matplotlib==3.7.0 seaborn==0.12.2
 ```
 
-## Acknowledgements
-
-We acknowledge the contributions of our data science team and the use of Lending Club's dataset for this analysis.
-
 -------
